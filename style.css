@@ -1,0 +1,21 @@
+#container
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.card
+{
+    height: 350px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.card img
+{
+    width: 150px;
+}
